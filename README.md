@@ -1,1 +1,1 @@
-# MentalHealth_SQL_project
+#  Analyzing Students' Mental Health in SQL
